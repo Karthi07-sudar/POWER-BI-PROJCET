@@ -1,0 +1,27 @@
+# Business Insights Summary – Blinkit Grocery App
+
+## Key KPIs:
+- Total Sales
+- Average Sales per Outlet
+- Number of Items
+- Average Rating
+
+## Insights:
+
+1. **Tier 3 Locations Dominate**
+   - Sales from Tier 3 outlets are the highest at $472K, indicating high regional demand.
+
+2. **Outlet Size Performance**
+   - Medium outlets show the highest sales ($507K), followed by small-sized outlets.
+
+3. **Category Breakdown**
+   - Fruits & Vegetables and Snack Foods dominate with sales over $0.14M each.
+
+4. **Customer Preferences**
+   - Items with Regular fat are preferred over Low-fat ($776K vs $425K).
+
+5. **Outlet Type Analysis**
+   - Supermarket Type3 leads in all KPIs — high sales, rating, and visibility.
+
+6. **Growth Trend**
+   - Steady growth in outlet establishment peaked in 2020 ($205K), possibly due to pandemic-induced grocery demand.
